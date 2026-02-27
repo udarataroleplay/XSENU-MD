@@ -4,13 +4,13 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Knight-Bot;Multi+Device+Whatsapp+Bot;Coded+By+Professor" alt="Typing SVG" />
+    <img src="https://raw.githubusercontent.com/udarataroleplay/XSENU-MD/refs/heads/main/assets/bot_alive.jpg?token=GHSAT0AAAAAADVUAC2ZMNSE3KJ2PSZP55EC2NBY72Q" alt="Typing SVG" />
   </a> 
 </div> 
-
+https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Knight-Bot;Multi+Device+Whatsapp+Bot;Coded+By+Professor
 <div align="center"> 
   <a href="https://youtube.com/@gamingshoun"> 
-    <img src="https://raw.githubusercontent.com/udarataroleplay/XSENU-MD/refs/heads/main/assets/bot_alive.jpg?token=GHSAT0AAAAAADVUAC2ZMNSE3KJ2PSZP55EC2NBY72Q" alt="Knight Bot"> 
+    <img src="https://github.com/udarataroleplay/XSENU-MD/blob/main/assets/bot_alive.jpg" alt="Knight Bot" height="300"> 
   </a> 
 </div>
 
