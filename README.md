@@ -15,10 +15,10 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/mruniquehacker?style=for-the-badge&label=Followers" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/mruniquehacker/Knightbot-MD?style=for-the-badge&label=Stars" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/mruniquehacker/Knightbot-MD?style=for-the-badge&label=Forks" alt="Forks"/>
-  <img src="https://img.shields.io/github/watchers/mruniquehacker/Knightbot-MD?style=for-the-badge&label=Watchers" alt="Watchers"/>
+  <img src="https://img.shields.io/github/followers/udarataroleplay?style=for-the-badge&label=Followers" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/udarataroleplay/XSENU-MD?style=for-the-badge&label=Stars" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/udarataroleplay/XSENU-MD?style=for-the-badge&label=Forks" alt="Forks"/>
+  <img src="https://img.shields.io/github/watchers/udarataroleplay/XSENU-MD?style=for-the-badge&label=Watchers" alt="Watchers"/>
 </div>
 
 ---
@@ -149,7 +149,7 @@ It is lightweight and can be easily customized to add more commands as per your 
 
     ```bash
     git clone https://github.com/udarataroleplay/XSENU-MD.git
-    cd Knightbot-MD
+    cd XSENU-MD
     ```
 
 2. **Install the dependencies:**
@@ -174,7 +174,7 @@ It is lightweight and can be easily customized to add more commands as per your 
 
 <div align="center">
 
-<a href="https://buymeacoffee.com/mruniquehacker" target="_blank">
+<a href="https://buymeacoffee.com/udarataroleplay" target="_blank">
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Developer-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me a Coffee">
 </a>
 
@@ -192,19 +192,19 @@ If you find this project helpful and want to support the developer, consider buy
 
 ## 📄 License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/mruniquehacker/Knightbot-MD/blob/main/LICENSE) file for details.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/udarataroleplay/XSENU-MD/blob/main/LICENSE) file for details.
 
 ---
 
 ## 🙌 Contributions
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/mruniquehacker/Knightbot-MD/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/udarataroleplay/XSENU-MD/issues).
 
 ---
 
 ## 🌟 Show your support
 
-If you like this project, please give it a [⭐️ star on GitHub](https://github.com/mruniquehacker/Knightbot)!
+If you like this project, please give it a [⭐️ star on GitHub](https://github.com/udarataroleplay/Knightbot)!
 
 
 ## Credits
